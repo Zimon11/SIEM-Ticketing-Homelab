@@ -1,4 +1,4 @@
-⬅️ [Previous: Introduction](01-introduction.md) | [Next: Installation ➡️](03-installation.md)
+⬅️ [Previous: Introduction](01-introduction.md) | [Next: Installation and Configuration ➡️](03-installation-configuration.md)
 
 # 🏗️ Lab Architecture
 
@@ -55,5 +55,5 @@ a Virtual Machine using Hyper-V. The Ubuntu server was also in the same network 
 - External Virtual Switch
 ---
 
-⬅️ [Previous: Introduction](01-introduction.md) | [Next: Installation ➡️](03-installation.md)
+⬅️ [Previous: Introduction](01-introduction.md) | [Next: Installation and Configuration ➡️](03-installation-configuration.md)
 
