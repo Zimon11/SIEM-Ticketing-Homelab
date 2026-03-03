@@ -37,4 +37,23 @@
 
 ![Screenshot](../screenshots/Wazuh-Setup/WazuhUI2.png)
 - Successfully logge-in as the wazuh admin and displays the dashboard page of wazuh.
+---
+
+### Step 2.3: Deploying agent in Wazuh and Wazuh Agent Installation
+![Screenshot](../screenshots/Wazuh-Setup/WazuhAgent1.png)
+- In Agent management of wazuh, chosed windows as my agent and added the IP address of the Wazuh Server.
+
+![Screenshot](../screenshots/Wazuh-Setup/WazuhAgent2.png)
+- Added a name for the agent to correspond the name of the device itself for better identification.
+- Copied the command below for later installation of Wazuh Agent in the Windows device.
+
+![Screenshot](../screenshots/Wazuh-Setup/WazuhAgent3.png)
+- In the Windows Client(A domain joined device within the same network as the Wazuh Server), pasted the command in the powershell to install Wazuh Agent.
+
+![Screenshot](../screenshots/Wazuh-Setup/WazuhAgent4.png)
+- Type the command NET Start Wazuh to start monitoring the Windows Client using Wazuh Agent.
+---
+### Step 2.4: Validation Step: Verified that agent was successfully added in the endpoint
+![Screenshot](../screenshots/Wazuh-Setup/WazuhAgent5.png)
+- In the Wazuh Dashboard Agent management, Verified the endpoints was successfully running to continously monitor each of the device logs.
 ⬅️ [Previous: Installation and Configuration](03-installatation-configuration.md) | [Next: SIEM Wazuh Intallation ➡️](04-siem-wazuh-installation.md)
