@@ -28,6 +28,9 @@ This repository is a documentation of Wazuh and OsTicket hands-on practice homel
 - [Introduction](docs/01-introduction.md)
 - [Lab Architecture](docs/02-lab-architecture.md)
 - [Installation & Configuration](docs/03-installation-configuration.md)
+- [SIEM Wazuh installation](docs/04-siem-wazuh-installation.md)
+- [Osticket Installation](docs/05-osticket-installation.md)
+- [Osticket & Wazuh Integration](docs/06-osticket-wazuh-integration.md)
 ---
 
 ## 🚀 Status

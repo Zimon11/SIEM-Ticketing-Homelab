@@ -1,4 +1,4 @@
-⬅️ [Previous: Installation and Configuration](03-installatation-configuration.md) | [Next: SIEM Wazuh Intallation ➡️](04-siem-wazuh-installation.md)
+⬅️ [Previous: Installation and Configuration](03-installatation-configuration.md) | [Next: SIEM Wazuh Installation ➡️](05-osticket-installation.md)
 
 # Step 2: ⚙️ SIEM Wazuh Installation
 
@@ -56,4 +56,5 @@
 ### Step 2.4: Validation Step: Verified that agent was successfully added in the endpoint
 ![Screenshot](../screenshots/Wazuh-Setup/WazuhAgent5.png)
 - In the Wazuh Dashboard Agent management, Verified the endpoints was successfully running to continously monitor each of the device logs.
-⬅️ [Previous: Installation and Configuration](03-installatation-configuration.md) | [Next: SIEM Wazuh Intallation ➡️](04-siem-wazuh-installation.md)
+---
+⬅️ [Previous: Installation and Configuration](03-installatation-configuration.md) | [Next: SIEM Wazuh Installation ➡️](05-osticket-installation.md)
