@@ -1,4 +1,4 @@
-⬅️ [Previous: Lab Architecture](02-lab-architecture.md) | [Next: Active Directory Installation and Configuration ➡️](04-ad-installation-configuration.md)
+⬅️ [Previous: Lab Architecture](02-lab-architecture.md) | [Next: SIEM Wazuh Intallation ➡️](04-siem-wazuh-installation.md)
 
 # Step 1: ⚙️ Installation and Configuration
 
@@ -18,4 +18,4 @@
 ![Screenshot](../screenshots/Ubuntu-Installation/UbuntuInstallation3.png)
 - Logged-in as the Ubuntu Server admin account to verify its complete installation.
 ---
-⬅️ [Previous: Lab Architecture](02-lab-architecture.md) | [Next: Active Directory Installation and Configuration ➡️](04-ad-installation-configuration.md)
+⬅️ [Previous: Lab Architecture](02-lab-architecture.md) | [Next: SIEM Wazuh Intallation ➡️](04-siem-wazuh-installation.md)
