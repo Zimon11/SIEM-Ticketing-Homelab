@@ -2,13 +2,12 @@
 
 # 📘 Introduction
 
-This project is a personal hands-on activity on Active Directory Domain Services homelab created to strengthen the and gain practical knowledge of Windows System Administration, fundamentals of cybersecurity, and enterprises real world environment.
+This project is a personal hands-on activity on using Wazuh in Ubuntu Server homelab and using the platform ServiceNow Incident Management Tool created to gain a practical experience in monitoring logs, creating an incident, managing SLA's, and assigning groups or users into an incident and to learn what is a real worl enterprise process when using these tools.
 
 The lab focuses on:
-- Understanding how Active Directory works
-- Learning the best practices for OU design and access control
-- Applying Group Policy for centralized management
-- Troubleshooting real-world domain issues
+- Understanding how to navigate ServiceNow
+- Learning how to use Incident Management Tool
+- Monitoring Logs in real time
 
 All steps are documented with screenshots as proof of implementation.
 
